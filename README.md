@@ -1,4 +1,4 @@
-# Adventure Works Report
+# Interactive Dashboard: Adventure Works Report (Power BI)
 
 ## Summary
 
@@ -6,7 +6,7 @@ In this course project, I take on the role of a business intelligence analyst fo
 
 ## Resources
 
-[Microsoft Power BI Desktop for Business Intelligence Course](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/)
+- [Microsoft Power BI Desktop for Business Intelligence Course](https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/)
 
 ## Screenshots
 
